@@ -1,0 +1,22 @@
+﻿<Window x:Class="Word_Processor__1._0_.FileSaved"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Saved" Height="153" Width="341" KeyDown="fileSaved_KeyDown" ResizeMode="NoResize" Icon="file:///C://text%20editor%20icon.png" WindowStartupLocation="CenterScreen">
+    <Grid Height="115" Width="319">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                <GradientStop Color="White" Offset="0.31999999999999995" />
+                <GradientStop Color="#FFFFD1F1" Offset="0.67999999999999994" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Your file was saved." Height="46" HorizontalAlignment="Left" Margin="44,12,0,0" Name="label1" VerticalAlignment="Top" FontSize="28" FontFamily="Pristina" />
+        <Button Content="Okay" Height="38" HorizontalAlignment="Left" Margin="117,65,0,0" Name="okayButton" VerticalAlignment="Top" Width="78" FontSize="18" Click="okayButton_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD4D4D4" Offset="0.331" />
+                    <GradientStop Color="#FFFCFCFC" Offset="0.68" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

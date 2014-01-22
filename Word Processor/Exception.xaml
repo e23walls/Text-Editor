@@ -1,0 +1,26 @@
+﻿<Window x:Class="Word_Processor__1._0_.Exception"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Error!" Height="167" Width="365" KeyDown="Exception_KeyDown" ResizeMode="NoResize" Icon="file:///C://text%20editor%20icon1.png" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                <GradientStop Color="#FFFFBEE2" Offset="1" />
+                <GradientStop Color="White" Offset="0" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label BorderThickness="0" Content="File Does Not Exist!" FontFamily="Pristina" FontSize="28" Height="39" HorizontalAlignment="Center" Margin="46,22,48,0" Name="label2" VerticalAlignment="Top" Width="249">
+            <Label.BorderBrush>
+                <SolidColorBrush />
+            </Label.BorderBrush>
+        </Label>
+        <Button Content="OK" FontWeight="Bold" Height="40" HorizontalAlignment="Left" Margin="122,76,0,0" Name="okButton" VerticalAlignment="Top" Width="84" Click="okButton_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCECECE" Offset="0.297" />
+                    <GradientStop Color="White" Offset="0.669" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

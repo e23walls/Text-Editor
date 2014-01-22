@@ -1,0 +1,22 @@
+﻿<Window x:Class="Word_Processor__1._0_.saveException"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Error!" Height="190" Width="378" KeyDown="saveException_KeyDown" ResizeMode="NoResize" Icon="file:///C://text%20editor%20icon1.png" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                <GradientStop Color="#FFFFBEE2" Offset="1" />
+                <GradientStop Color="White" Offset="0" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Could Not Save File!" Height="41" HorizontalAlignment="Left" Margin="39,30,0,0" Name="label1" VerticalAlignment="Top" FontFamily="Pristina" FontSize="32" />
+        <Button Content="Okay" FontSize="18" Height="38" HorizontalAlignment="Left" Margin="135,91,0,0" Name="okayButton" VerticalAlignment="Top" Width="78" Click="okayButton_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD4D4D4" Offset="0.331" />
+                    <GradientStop Color="#FFFCFCFC" Offset="0.68" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

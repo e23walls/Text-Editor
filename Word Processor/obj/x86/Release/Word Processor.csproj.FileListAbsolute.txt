@@ -1,0 +1,67 @@
+I:\Word Processor\Word Processor\bin\Release\Word Processor.exe
+I:\Word Processor\Word Processor\bin\Release\Word Processor.pdb
+I:\Word Processor\Word Processor\obj\x86\Release\ResolveAssemblyReference.cache
+I:\Word Processor\Word Processor\obj\x86\Release\Exception.baml
+I:\Word Processor\Word Processor\obj\x86\Release\FileSaved.baml
+I:\Word Processor\Word Processor\obj\x86\Release\MainWindow.baml
+I:\Word Processor\Word Processor\obj\x86\Release\openFileError.baml
+I:\Word Processor\Word Processor\obj\x86\Release\saveFile.baml
+I:\Word Processor\Word Processor\obj\x86\Release\savePromptWindow.baml
+I:\Word Processor\Word Processor\obj\x86\Release\TextEditorWindow.baml
+I:\Word Processor\Word Processor\obj\x86\Release\Exception.g.cs
+I:\Word Processor\Word Processor\obj\x86\Release\FileSaved.g.cs
+I:\Word Processor\Word Processor\obj\x86\Release\MainWindow.g.cs
+I:\Word Processor\Word Processor\obj\x86\Release\openFileError.g.cs
+I:\Word Processor\Word Processor\obj\x86\Release\saveFile.g.cs
+I:\Word Processor\Word Processor\obj\x86\Release\savePromptWindow.g.cs
+I:\Word Processor\Word Processor\obj\x86\Release\TextEditorWindow.g.cs
+I:\Word Processor\Word Processor\obj\x86\Release\App.g.cs
+I:\Word Processor\Word Processor\obj\x86\Release\Word Processor_MarkupCompile.cache
+I:\Word Processor\Word Processor\obj\x86\Release\Word Processor.g.resources
+I:\Word Processor\Word Processor\obj\x86\Release\Word_Processor__1._0_.Properties.Resources.resources
+I:\Word Processor\Word Processor\obj\x86\Release\GenerateResource.read.1.tlog
+I:\Word Processor\Word Processor\obj\x86\Release\GenerateResource.write.1.tlog
+I:\Word Processor\Word Processor\obj\x86\Release\Word Processor.exe
+I:\Word Processor\Word Processor\obj\x86\Release\Word Processor.pdb
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\ResolveAssemblyReference.cache
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Exception.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\FileSaved.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\MainWindow.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\saveException.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\TextEditorWindow.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Exception.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\FileSaved.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\MainWindow.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\saveException.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\TextEditorWindow.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\App.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Word_Processor__1._0_.Properties.Resources.resources
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\GenerateResource.read.1.tlog
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\GenerateResource.write.1.tlog
+H:\ICS\File IO\Word Processor\Word Processor\bin\Release\Simple Text Editor.exe
+H:\ICS\File IO\Word Processor\Word Processor\bin\Release\Simple Text Editor.pdb
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Simple Text Editor_MarkupCompile.cache
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Simple Text Editor.g.resources
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Simple Text Editor.exe
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Simple Text Editor.pdb
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Simple Text Editor.exe
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Simple Text Editor.pdb
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\bin\Release\Simple Text Editor.exe
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\bin\Release\Simple Text Editor.pdb
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\ResolveAssemblyReference.cache
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Exception.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\FileSaved.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\MainWindow.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\saveException.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\TextEditorWindow.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Exception.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\FileSaved.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\MainWindow.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\saveException.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\TextEditorWindow.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\App.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Simple Text Editor_MarkupCompile.cache
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Simple Text Editor.g.resources
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\Word_Processor__1._0_.Properties.Resources.resources
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\GenerateResource.read.1.tlog
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Release\GenerateResource.write.1.tlog

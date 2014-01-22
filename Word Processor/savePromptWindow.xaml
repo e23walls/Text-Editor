@@ -1,0 +1,22 @@
+﻿<Window x:Class="Word_Processor__1._0_.savePromptWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Not Saved!" Height="184" Width="459" HorizontalAlignment="Center" HorizontalContentAlignment="Center" KeyDown="mainWindow_KeyDown">
+    <Grid Height="146" Width="422">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                <GradientStop Color="White" Offset="0" />
+                <GradientStop Color="#FFFFBEE2" Offset="0.994" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="File not saved!" Height="57" HorizontalAlignment="Left" Margin="63,12,0,0" Name="title" VerticalAlignment="Top" FontFamily="Pristina" FontSize="48" />
+        <Button Content="OK" Height="40" HorizontalAlignment="Left" Margin="168,94,0,0" Name="okButton" VerticalAlignment="Top" Width="84" FontWeight="Bold" Click="okButton_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCECECE" Offset="0.297" />
+                    <GradientStop Color="White" Offset="0.669" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

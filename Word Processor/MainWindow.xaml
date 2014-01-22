@@ -1,0 +1,39 @@
+﻿<Window x:Class="Word_Processor__1._0_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Start Window" Height="231" Width="511" FontFamily="Segoe UI" KeyDown="startWindow_KeyDown" ResizeMode="NoResize" Icon="file:///C://text%20editor%20icon1.png"  WindowStartupLocation="CenterScreen">
+    <Grid Height="193" Width="490">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                <GradientStop Color="White" Offset="0" />
+                <GradientStop Color="#FFFFCEF4" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Content="Welcome!" Height="67" HorizontalAlignment="Left" Margin="102,0,0,0" Name="title" VerticalAlignment="Top" FontFamily="Lucida Bright" FontSize="56" Width="281" />
+        <Label Content="Simple Text Editor by Emily Walls and Jordan McConkey" Height="28" HorizontalAlignment="Left" Margin="45,73,0,0" Name="subTitle" VerticalAlignment="Top" FontFamily="Pristina" FontSize="16" />
+        <Button Content="Create/Open (N)" Height="34" HorizontalAlignment="Left" Margin="94,130,0,0" Name="createButton" VerticalAlignment="Top" Width="106" Click="createButton_Click" FontWeight="Bold" FontSize="12" FontFamily="Segoe UI">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCECECE" Offset="0.297" />
+                    <GradientStop Color="White" Offset="0.686" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Quit (Q)" Height="34" Margin="211,130,94,0" Name="quitButton" VerticalAlignment="Top" Click="quitButton_Click" FontWeight="Bold" FontSize="18" FontFamily="Segoe UI">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFBEBEBE" Offset="0.267" />
+                    <GradientStop Color="White" Offset="0.721" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Separator Height="117" HorizontalAlignment="Left" Margin="0,47,0,0" Name="separator1" VerticalAlignment="Top" Width="383">
+            <Separator.Background>
+                <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                    <GradientStop Color="White" Offset="0" />
+                    <GradientStop Color="Black" Offset="1" />
+                </LinearGradientBrush>
+            </Separator.Background>
+        </Separator>
+    </Grid>
+</Window>

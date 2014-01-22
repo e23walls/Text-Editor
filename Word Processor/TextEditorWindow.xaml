@@ -1,0 +1,108 @@
+﻿<Window x:Class="Word_Processor__1._0_.TextEditorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Simple Text Editor" Height="563" Width="544" FontWeight="Normal" HorizontalAlignment="Center" HorizontalContentAlignment="Center" KeyDown="window_KeyDown" ResizeMode="NoResize" Icon="file:///C://text%20editor%20icon1.png" Background="#FFD1D1D1" OpacityMask="{x:Null}" WindowStartupLocation="CenterScreen">
+    <Grid Height="523" Width="521">
+        <Label Content="Untitled" Height="51" HorizontalAlignment="Center" Margin="12,12,12,0" Name="titleLabel" VerticalAlignment="Top" FontFamily="Lucida Bright" FontSize="33" Width="497" HorizontalContentAlignment="Center" />
+        <TextBox Height="338" HorizontalAlignment="Left" Margin="12,0,0,12" Name="fileContents_txt" VerticalAlignment="Bottom" Width="497" AcceptsTab="True" AcceptsReturn="True" Text="" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" KeyDown="fileContents_txt_KeyDown" TextChanged="fileContents_txt_TextChanged" FontFamily="Lucida Console" />
+        <Button Content="Save" Height="49" Margin="70,60,407,0" Name="saveButton" VerticalAlignment="Top" Click="saveButton_Click" FontWeight="Bold" FontSize="10" Opacity="1">
+            <Button.Background>
+                <ImageBrush ImageSource="file:///C://save%20file%20icon.png" />
+            </Button.Background>
+        </Button>
+        <Button Content="New" Height="49" HorizontalAlignment="Left" Margin="12,60,0,0" Name="newButton" VerticalAlignment="Top" Width="44" Click="newButton_Click" FontWeight="Bold" FontSize="10" Opacity="1">
+            <Button.Background>
+                <ImageBrush ImageSource="file:///C://create%20new%20file1.png" />
+            </Button.Background>
+        </Button>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="104,142,0,0" Name="filePath_txt" VerticalAlignment="Top" Width="158" Background="White" BorderBrush="Black" BorderThickness="0.2" Text="H://" />
+        <Label Content="Save Location:" Height="28" HorizontalAlignment="Left" Margin="12,139,0,0" Name="savePathLabel" VerticalAlignment="Top" FontWeight="Bold" />
+        <TextBox Height="23" Margin="104,113,259,0" Name="fileName_txt" VerticalAlignment="Top" TextAlignment="Right" Text="Untitled.txt" TextChanged="fileName_txt_TextChanged" />
+        <Label Content="File Name:" Height="28" HorizontalAlignment="Left" Margin="33,111,0,0" Name="label1" VerticalAlignment="Top" FontWeight="Bold" />
+        <Button Content="Quit" Height="49" HorizontalAlignment="Left" Margin="456,0,0,414" Name="quit_Button" VerticalAlignment="Bottom" Width="53" FontFamily="Quit" FontWeight="Bold" Click="quit_Button_Click" Opacity="1">
+            <Button.Background>
+                <ImageBrush ImageSource="file:///C://quit%20program%20icon.png" />
+            </Button.Background>
+        </Button>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,113,12,0" Name="openFile_txt" VerticalAlignment="Top" Width="142" Text="H://" />
+        <Label Content="Open Location:" Height="28" HorizontalAlignment="Left" Margin="271,111,0,0" Name="openfileLabel" VerticalAlignment="Top" FontSize="12" FontWeight="Bold" />
+        <Button Content="Open" FontSize="10" FontWeight="Bold" Height="49" Margin="128,60,349,0" Name="openButton" VerticalAlignment="Top" Click="openButton_Click" Opacity="1">
+            <Button.Background>
+                <ImageBrush ImageSource="file:///C://open%20file%20icon.png" />
+            </Button.Background>
+        </Button>
+        <Menu Height="23" HorizontalAlignment="Left" Name="menu1" VerticalAlignment="Top" Width="521">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFBEBEBE" Offset="0.244" />
+                    <GradientStop Color="White" Offset="0.831" />
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem Header="File">
+                <MenuItem Header="New File" InputGestureText="Ctrl + N" Click="newButton_Click">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://plus%20sign1.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Save" InputGestureText="Ctrl + S" Click="saveButton_Click">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://save%20file%20icon1.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem  Header="Open…" InputGestureText="Ctrl + O" Click="openButton_Click">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://open%20file%20icon1.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Close" InputGestureText="Ctrl + W" Click="CloseWinButton_Click">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://close%20program1.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="Exit" InputGestureText="Ctrl + Q" Click="quit_Button_Click">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://quit%20program%20icon1.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Command="ApplicationCommands.Copy" Header="Copy">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://copy%20icon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Command="ApplicationCommands.Cut" Header="Cut">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://cut%20icon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Command="ApplicationCommands.Paste" Header="Paste">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://paste%20icon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Command="ApplicationCommands.Undo" Header="Undo">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://undo%20icon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Command="ApplicationCommands.Redo" Header="Redo" InputGestureText="Shift + Ctrl + Z">
+                    <MenuItem.Icon>
+                        <Image Source="file:///C://redo%20icon.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Button Content="Close" FontFamily="Quit" FontWeight="Bold" Height="49" HorizontalAlignment="Left" Margin="188,0,0,413" Name="closeWinButton" Opacity="1" VerticalAlignment="Bottom" Width="43" Click="CloseWinButton_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="file:///C://close%20program.png" />
+            </Button.Background>
+        </Button>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                <GradientStop Color="White" Offset="0" />
+                <GradientStop Color="#FFFFCEF4" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+    </Grid>
+</Window>

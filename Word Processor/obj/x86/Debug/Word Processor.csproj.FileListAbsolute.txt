@@ -1,0 +1,90 @@
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\MainWindow.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\MainWindow.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\App.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Word_Processor__1._0_.Properties.Resources.resources
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\FileSaved.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\FileSaved.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\TextEditorWindow.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\TextEditorWindow.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Word Processor.exe
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Word Processor.pdb
+H:\ICS\File IO\Word Processor\Word Processor\bin\Debug\Word Processor.exe
+H:\ICS\File IO\Word Processor\Word Processor\bin\Debug\Word Processor.pdb
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\FileSaved.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\MainWindow.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\TextEditorWindow.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\FileSaved.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\MainWindow.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\TextEditorWindow.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\App.g.cs
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Word Processor_MarkupCompile.cache
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Word Processor.g.resources
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Word_Processor__1._0_.Properties.Resources.resources
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Exception.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Exception.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\Word Processor.exe
+I:\Word Processor\Word Processor\obj\x86\Debug\Word Processor.pdb
+I:\Word Processor\Word Processor\bin\Debug\Word Processor.exe
+I:\Word Processor\Word Processor\bin\Debug\Word Processor.pdb
+I:\Word Processor\Word Processor\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Word Processor\Word Processor\obj\x86\Debug\Exception.baml
+I:\Word Processor\Word Processor\obj\x86\Debug\FileSaved.baml
+I:\Word Processor\Word Processor\obj\x86\Debug\MainWindow.baml
+I:\Word Processor\Word Processor\obj\x86\Debug\openFileError.baml
+I:\Word Processor\Word Processor\obj\x86\Debug\saveFile.baml
+I:\Word Processor\Word Processor\obj\x86\Debug\savePromptWindow.baml
+I:\Word Processor\Word Processor\obj\x86\Debug\TextEditorWindow.baml
+I:\Word Processor\Word Processor\obj\x86\Debug\Exception.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\FileSaved.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\MainWindow.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\openFileError.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\saveFile.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\savePromptWindow.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\TextEditorWindow.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\App.g.cs
+I:\Word Processor\Word Processor\obj\x86\Debug\Word Processor_MarkupCompile.cache
+I:\Word Processor\Word Processor\obj\x86\Debug\Word Processor.g.resources
+I:\Word Processor\Word Processor\obj\x86\Debug\Word_Processor__1._0_.Properties.Resources.resources
+I:\Word Processor\Word Processor\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Word Processor\Word Processor\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\saveException.baml
+H:\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\saveException.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\bin\Debug\Simple Text Editor.exe
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\bin\Debug\Simple Text Editor.pdb
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Exception.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\saveException.baml
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Exception.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\saveException.g.cs
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Simple Text Editor_MarkupCompile.cache
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Simple Text Editor.g.resources
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Simple Text Editor.exe
+I:\H-Drive\ICS\File IO\Word Processor\Word Processor\obj\x86\Debug\Simple Text Editor.pdb
+I:\H-Drive\ICS\File IO\Text Editor\Word Processor\obj\x86\Debug\Simple Text Editor.exe
+I:\H-Drive\ICS\File IO\Text Editor\Word Processor\obj\x86\Debug\Simple Text Editor.pdb
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\Simple Text Editor.exe
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\Simple Text Editor.pdb
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\bin\Debug\Simple Text Editor.exe
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\bin\Debug\Simple Text Editor.pdb
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\Exception.baml
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\FileSaved.baml
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\MainWindow.baml
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\saveException.baml
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\TextEditorWindow.baml
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\Exception.g.cs
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\FileSaved.g.cs
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\saveException.g.cs
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\TextEditorWindow.g.cs
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\App.g.cs
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\Simple Text Editor_MarkupCompile.cache
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\Simple Text Editor.g.resources
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\Word_Processor__1._0_.Properties.Resources.resources
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emilywalls\Desktop\Text Editor\Word Processor\obj\x86\Debug\GenerateResource.write.1.tlog
